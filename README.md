@@ -23,39 +23,6 @@ The Thyroid is a butterfly-shaped endocrine gland which is situated at the base 
 #### Various Thyroid Harmones and their effects:
 The Thyroid gland mainly produces tri-iodothyronine (T3), thyroxine (T4), and Thyroid stimulating hormone (TSH). The Thyroid stimulating hormone (TSH) is released by the pituitary gland which mainly stimulates the thyroid gland to produce T3 and T4 which further stimulate the metabolism of almost every tissue present in the human body. Therefore, the pituitary gland plays a vital role in controlling the production of the required amount of thyroid hormones. If the TSH production level is less then T3, T4 secretion will be more and vice versa. The Thyroid disorder is the most common endocrine disease across the world. In a survey carried out in India, around 42 million people are suffering from this disease. Thyroid disease is different from other types of endocrine diseases in terms of the mode of treatment relative attainability and the ease of predicting the disease. The high thyroid hormone secretion leads to Hyperthyroidism and low secretion leads to Hypothyroidism. Both conditions adversely affect human physiology and the symptoms shown for hyperthyroidism are dry skin, hair thinning, loss of weight, high blood pressure, neck enlargement, and short menstrual periods. The symptoms shown for hypothyroidism include thyroid gland inflammation, weight gain, low blood pressure, heavy menstrual periods, and loss of appetite. These symptoms may get even worse if they are not treated at an early stage. Hence, there is a need for a proper prediction model which helps in diagnosing the patient’s condition in an early stage of the disease.
 
-## Literature Survey:
-
-### Bibi Amina Begum et al.:
-Have proposed different Thyroid prediction techniques using data mining approaches. They have considered different dataset attributes for prediction and have explained the classification techniques in data mining like Decision Tree, Backpropagation Neural Network, SVM, and density-based clustering. They have analyzed the correlation of T3, T4, and TSH with hyperthyroidism and hypothyroidism.
-
-### Ankita Tyagi et al.:
-Have studied various classification-based machine learning algorithms. They have considered train datasets from the UCI Machine Learning repository and compared and analyzed the performance metric of the decision tree, support vector machine, and K-nearest neighbor.
-
-### Aswathi A K et al.:
-Have proposed a training model consisting of 21 thyroid-causing attributes. They have proposed partial swarm optimization to optimize the support vector machine parameters.
-
-### M. Deepika et al.:
-Have performed a general empirical study on various disease diagnosis like Diabetes, Breast Cancer, Heart disease, Thyroid prediction and have compared the accuracy rate by applying SVM, Decision tree and Artificial Neural Networks.
-
-### Sumathi A et al.:
-Have considered Thyroid data preprocessing mainly by applying the decision tree algorithm. They have first calculated the mean values of T3, T4, and TSH and considered as the preprocessing stage. Later on, they have applied machine learning-based feature selection and feature construction. Further, they have applied classification-based J48 algorithm which is a continuation of the ID3 algorithm and calculated the results.
-
-### I Md. Dendi Maysanjaya et al.:
-Have analyzed a comparison of various classification methods used to diagnose thyroid disease. They have compared by using Artificial Neural Networks, Radial Based Function, Learning Vector Quantization, Back Propagation Algorithm and Artificial Immune recognition system and concluded the comparison results. Among them, they found out that Multilayer Perceptron has the
-
- highest accuracy of 96.74%.
-
-### Ammulu K et al.:
-Have proposed a Thyroid Prediction System based on data mining classification algorithm. They have used a random forest approach to predict the results using Weka open-source tool used for data mining. Using this tool they have applied random forest algorithm with 25 thyroid data attributes and predicted the results accordingly.
-
-### Roshan Banu D et al.:
-Have conducted a study on different data mining techniques to detect thyroid disease. They have done study on Linear Discriminant analysis, Kfold cross-validation, and Decision tree. They have analyzed various splitting rules for the attributes of Decision tree. They have also compared the obtained values.
-
-### Dr.B.Srinivasan et al.:
-Have conducted a study on the diagnosis of thyroid disease using different data mining approaches. They have explained the major cause of the thyroid disease and have also given a description of Decision Tree, Naïve Bayes classification, and SVM.
-
-### Sunila Godara et al.:
-Have performed a Prediction on Thyroid Disease using various machine learning techniques. They have considered Logistic Regression and Support Vector Machine as the main Thyroid detection models. They have concluded that these two proposed classifier methods are the best when the number of classes increases in the thyroid prediction model.
 
 ## Existing System:
 In the data collection stage, small, memory-constrained, and low energy-consumption sensors with a short-range communications capability are employed to collect information about the physical environment. Ethernet, WiFi, ZigBee, and wire-based technologies are combined with Transmission Control Protocol/Internet Protocol to connect the objects and users across prolonged distances during data transmission. During the data processing and utilization stage, applications process the data to obtain useful information, and may initiate control commands to act on the physical environment after making decisions based on the collected information. The coordination of diverse technologies, the heterogeneity, and the distributed nature of communications technologies proposed for the IoT by different standards development organizations magnify the threat to end-to-end security in IoT applications.
