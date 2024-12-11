@@ -1,0 +1,16 @@
+"age","sex","on thyroxine","query on thyroxine","on antithyroid medication","sick","pregnant","thyroid surgery","I131 treatment","query hypothyroid","query hyperthyroid","lithium","goitre","tumor","hypopituitary","psych","TSH measured","TSH","T3 measured","T3","TT4 measured","TT4","T4U measured","T4U","FTI measured","FTI","TBG measured","TBG","referral source"
+61,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,t,0.99,t,1.5,t,63,t,0.56,t,113,f,0,SVI
+35,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.25,t,2,t,121,t,0.81,t,148,f,0,other
+70,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,1.1,t,1.7,t,95,t,0.68,t,140,f,0,SVI
+81,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.2,t,2.2,t,133,t,0.78,t,171,f,0,other
+83,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.92,t,0.9,t,86,t,0.76,t,113,f,0,SVI
+65,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,14.8,t,1.5,t,61,t,0.85,t,72,f,0,SVI
+27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,15,t,1.6,t,82,t,0.82,t,100,f,0,SVI
+39,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,160,t,0.4,t,11,t,1.24,t,8.9,f,0,other
+58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.26,t,2.7,t,120,t,1.27,t,95,f,0,other
+51,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.8,f,0,t,69,t,0.76,t,91,f,0,other
+64,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0,f,0,f,0,f,0,f,0,f,0,other
+44,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,45,t,1.4,t,39,t,1.16,t,33,f,0,SVI
+48,M,f,t,f,f,f,f,f,f,t,f,f,f,f,f,t,5.4,t,1.9,t,87,t,1,t,87,f,0,other
+35,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.25,t,2,t,121,t,0.81,t,148,f,0,other
+61,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,t,0.99,t,1.5,t,63,t,0.56,t,113,f,0,SVI
